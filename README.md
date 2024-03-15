@@ -87,6 +87,24 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original-wordmark.svg" height="40" alt="android logo"  />
 </div>
+###
+
+<h3 align="left">🛠 Testing</h3>
+
+###
+
+<p align="left">JUnit, Jupiter, Mockito, Insomnia,</p>
+
+###
+
+<h3 align="left">🛠 Software Dev</h3>
+
+###
+
+<p align="left">Agile, Scrum, Organization Skills, Teamwork and Collaboration, Attention to Detail</p>
+
+###
+![image](https://github.com/kanwarSINGH03/kanwarSINGH03/assets/99575733/0e4f5768-9045-4ab1-8a4d-c1be7b088d76)
 
 ###
 
