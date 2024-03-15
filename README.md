@@ -104,9 +104,6 @@
 <p align="left">Agile, Scrum, Organization Skills, Teamwork and Collaboration, Attention to Detail</p>
 
 ###
-![image](https://github.com/kanwarSINGH03/kanwarSINGH03/assets/99575733/0e4f5768-9045-4ab1-8a4d-c1be7b088d76)
-
-###
 
 <h3 align="left">🔥   My Stats :</h3>
 
