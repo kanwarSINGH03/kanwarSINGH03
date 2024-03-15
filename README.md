@@ -101,7 +101,7 @@
 
 ###
 
-<p align="left">Agile, Scrum, Organization Skills, Teamwork and Collaboration, Attention to Detail</p>
+<p align="left">Agile, Scrum, MVC, Organization Skills, Teamwork and Collaboration, Attention to Detail</p>
 
 ###
 
