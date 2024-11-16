@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">I'm Kanwar Pannu, a passionate 3rd Year CS student from University of Saskatchewan, interested in Full Stack Web, Mobile Development and AI.<br><br>- 🔭 I’m working as a Data Analyst Student<br>- 📚 I'm currently learning Full Stack Web, Android Development and AI. <br>- ⚡ In my free time I learn new technologies to make new projects.</p>
+<p align="left">I'm Kanwar Pannu, a passionate 4th Year CS student from University of Saskatchewan, interested in Full Stack Web, Mobile Development and AI.<br><br>- 🔭 I’m working as a Data Analyst Student<br>- 📚 I'm currently learning Full Stack Web, Android Development and AI. <br>- ⚡ In my free time I learn new technologies to make new projects.</p>
 
 ###
 
